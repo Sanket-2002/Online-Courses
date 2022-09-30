@@ -464,14 +464,18 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
     },
-
-
-]
  {
         "id" : "31",
         "courseName" : "dsa with placement preparation with apna college",
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
     },
+{
+        "id" : "72",
+        "courseName" : "c with code with harry",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/7Dh73z3icd8"
+    }
+]
 
 
